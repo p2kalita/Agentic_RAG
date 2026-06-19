@@ -1,0 +1,8 @@
+crewai>=0.95.0
+crewai-tools>=0.25.0
+langchain-groq>=0.2.0
+faiss-cpu>=1.8.0
+sentence-transformers>=3.0.0
+pandas>=2.2.0
+python-dotenv>=1.0.0
+crewai[google-genai]
